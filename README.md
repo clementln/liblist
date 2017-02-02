@@ -1,5 +1,5 @@
-# Libmy_Extended - LibList
---------------------------
+Libmy_Extended - LibList
+==========================
 
 1. `make && make clean` pour compiler la librairie.
 2. `#include "liblist.h"` pour inclure la librairie dans un fichier source.
